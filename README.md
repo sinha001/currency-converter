@@ -26,6 +26,38 @@ A user-friendly **Currency Converter** that utilizes a real-time API to fetch an
 
 ---
 
+## 🚀 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/sinha001/currency-converter.git
+   ```
+
+2. **Navigate to a Specific Level**:
+    ```bash
+    cd currency-converter
+    ```
+3. **Open the `@index.html` file in your browser**: 
+    ```bash
+    open index.html
+    ```
+
+---
+
+# Project Structure
+```bash
+currency-converter/ 
+|
+├── index.html    # Main HTML file 
+├── style.css     # CSS for styling 
+├── app.js        # JavaScript for dropdowns and flags 
+├── codes.js      # JavaScript for API handling and exchange logic 
+├── screenshots/  # Folder containing screenshots of the app 
+└── README.md     #Project documentation
+```
+
+---
+
 ## 📸 Screenshots  
 ### Converter Interface  
 ![Converter Interface](./screenshots/converter-interface.png)  
@@ -50,10 +82,14 @@ Feel free to reach out if you have any questions or suggestions!
 
 ---
 
-## 🚀 How to Run
+## ✨ Convert currencies easily and explore seamless web app development! 🚀
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/sinha001/currency-converter.git
-   ```
+```markdown
 
+### Steps:
+1. Save this content in a file named `README.md` in your project folder.
+2. Ensure your project has a `screenshots/` folder with relevant screenshots for the app.
+3. Replace the placeholder paths for screenshots (`./screenshots/interface.png`, etc.) with actual file paths if applicable.
+4. Commit and push the `README.md` file to your repository on GitHub.
+
+Let me know if further adjustments are needed! 😊
