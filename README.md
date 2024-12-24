@@ -33,7 +33,7 @@ A user-friendly **Currency Converter** that utilizes a real-time API to fetch an
    git clone https://github.com/sinha001/currency-converter.git
    ```
 
-2. **Navigate to a Specific Level**:
+2. **Navigate to the Project Folder**:
     ```bash
     cd currency-converter
     ```
